@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🤘 I'm Diego Pazos aka Ukadev.
 
 <!--
 **ukadev/ukadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Backend Developer. Usually working with LAMP Stack, but right now with C++, Python, C#, Java and thinking about Rust. Laravel ❤
+```
+      GitHub:  https://github.com/ukadev
+    LinkedIn:  https://linkedin.com/in/diegopg
+         Web:  https://www.ukadev.com
+```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukadev&layout=compact&hide_border=true)
