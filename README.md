@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Backend Developer. Usually working with LAMP Stack, but right now with C++, Python, C#, Java and thinking about Rust. Laravel ❤
+Backend Developer. Usually working over LAMP Stack, but right now with C++, Python, C#, Java and thinking about Rust. Laravel ❤
 ```
       GitHub:  https://github.com/ukadev
     LinkedIn:  https://linkedin.com/in/diegopg
